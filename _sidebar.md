@@ -146,14 +146,35 @@
     - [Share Your Ideas](/event-management/support/share-your-ideas)
   - Permissions
     - [Permissions Overview](/event-management/permissions/permissions-overview)
+    - [Events Administrator](/event-management/permissions/events-administrator)
   - Data Model
     - [Overview](/event-management/custom-objects/README)
+    - [Event](/event-management/custom-objects/event)
+    - [Event Ticket](/event-management/custom-objects/event-ticket)
+    - [Event Registration](/event-management/custom-objects/event-registration)
+    - [Event Role](/event-management/custom-objects/event-role)
+    - [Event Favourite](/event-management/custom-objects/event-favourite)
+    - [Event View](/event-management/custom-objects/event-view)
+    - [Event Management Settings](/event-management/custom-objects/event-management-settings)
   - Apex Classes
     - [Overview](/event-management/classes/README)
+    - [EVTLandingController](/event-management/classes/evtl-landing-controller)
+    - [EVTViewController](/event-management/classes/evt-view-controller)
+    - [EVTViewRegistrationController](/event-management/classes/evt-view-registration-controller)
+    - [EVTFavouriteManagement](/event-management/classes/evt-favourite-management)
+    - [EVTEventMyTicketsController](/event-management/classes/evt-event-my-tickets-controller)
+    - [EVTEventETicketController](/event-management/classes/evt-event-e-ticket-controller)
   - Components
     - [Overview](/event-management/components/README)
+    - [EVT Landing Component](/event-management/components/evt-landing-component)
+    - [EVT Event View](/event-management/components/evt-event-view)
+    - [EVT Event View Registration](/event-management/components/evt-event-view-registration)
+    - [EVT Event My Tickets](/event-management/components/evt-event-my-tickets)
+    - [EVT Event E-Ticket](/event-management/components/evt-event-e-ticket)
+    - [EVT Event My Favourites](/event-management/components/evt-event-my-favourites)
   - Flows
     - [Overview](/event-management/flows/README)
+    - [Event Registration Flow](/event-management/flows/event-registration-flow)
   - Release Notes
     - [Overview](/event-management/release-notes/README)
 - Extended Field History
@@ -195,14 +216,32 @@
     - [Share Your Ideas](/generic-csv-exports/support/share-your-ideas)
   - Permissions
     - [Permissions Overview](/generic-csv-exports/permissions/permissions-overview)
+    - [CSV Export Access](/generic-csv-exports/permissions/csv-export-access)
   - Data Model
     - [Overview](/generic-csv-exports/custom-objects/README)
+    - [CSV Export](/generic-csv-exports/custom-objects/csv-export)
+    - [CSV Export File](/generic-csv-exports/custom-objects/csv-export-file)
+    - [CSV Export File Line](/generic-csv-exports/custom-objects/csv-export-file-line)
+    - [CSV Import Mapping](/generic-csv-exports/custom-objects/csv-import-mapping)
+    - [CSV Import Mapping Header](/generic-csv-exports/custom-objects/csv-import-mapping-header)
+    - [CSV Import Mapping Filter](/generic-csv-exports/custom-objects/csv-import-mapping-filter)
+    - [CSVExport Event](/generic-csv-exports/custom-objects/csvexport-event)
   - Apex Classes
     - [Overview](/generic-csv-exports/classes/README)
+    - [CSVExport ExportInvocable](/generic-csv-exports/classes/csvexport-export-invocable)
+    - [CSVExport ImportInvocable](/generic-csv-exports/classes/csvexport-import-invocable)
+    - [CSVExport ExportHelper](/generic-csv-exports/classes/csvexport-export-helper)
+    - [CSVExport ImportHelper](/generic-csv-exports/classes/csvexport-import-helper)
+    - [CSVExport BatchHelper](/generic-csv-exports/classes/csvexport-batch-helper)
+    - [CSVExport BatchProgressController](/generic-csv-exports/classes/csvexport-batch-progress-controller)
+    - [CSVExport ExportBatchable](/generic-csv-exports/classes/csvexport-export-batchable)
+    - [CSVExport ImportBatchable](/generic-csv-exports/classes/csvexport-import-batchable)
   - Components
     - [Overview](/generic-csv-exports/components/README)
+    - [CSV Export Batch Progress Component](/generic-csv-exports/components/csv-export-batch-progress-component)
   - Flows
     - [Overview](/generic-csv-exports/flows/README)
+    - [CSV Export AU](/generic-csv-exports/flows/csv-export-au)
   - Release Notes
     - [Overview](/generic-csv-exports/release-notes/README)
 - Grant Management Data Model

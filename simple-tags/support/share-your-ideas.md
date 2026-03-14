@@ -5,7 +5,7 @@ SimpleTags is designed to evolve with the needs of the organisations that use it
 If you have suggestions for improvements, new features, or enhancements, we encourage you to share them.
 
 > **Submit an idea:**  
-> JIRA Link: `<<ADD YOUR JIRA IDEAS LINK HERE>>`
+> [Jira Form](https://hyphen8jira.atlassian.net/jira/software/projects/H8SIMTAG/form/69)
 
 ---
 

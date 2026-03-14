@@ -5,7 +5,7 @@ If you encounter an issue while using **SimpleTags**, please report it through o
 Reporting issues with clear and consistent information helps the team diagnose and resolve problems much faster.
 
 > **Submit an issue:**  
-> JIRA Link: `<<ADD YOUR JIRA ISSUE LINK HERE>>`
+> [Jira Form](https://hyphen8jira.atlassian.net/jira/software/projects/H8SIMTAG/form/68)
 
 ---
 

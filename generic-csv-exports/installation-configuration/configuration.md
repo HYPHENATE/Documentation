@@ -12,8 +12,12 @@ Use `CSV_Import_Mapping__mdt`, `CSV_Import_Mapping_Header__mdt`, and `CSV_Import
 
 ## Step 3 - Configure Export Record Usage
 
-Confirm the record types and statuses used on `CSV_Export__c`, since the packaged flow routes processing based on the current status and record type developer name.
+Confirm the record types and statuses used on `CSV_Export__c`, since the packaged flow routes processing based on the current status and record type developer name. The record type developer name is the key that ties the runtime record to the relevant export-file or import-mapping metadata.
 
 ## Step 4 - Validate With Example Metadata
 
 The package includes example metadata based on opportunity exports and imports. Use those as starting references before introducing production-specific mappings.
+
+## Step 5 - Decide Where Batch Progress Should Be Surfaced
+
+If any mappings use batch processing, place the packaged `cSVExportBatchProgressComponent` on the `CSV_Export__c` Lightning record page so users can monitor job progress without leaving the record.

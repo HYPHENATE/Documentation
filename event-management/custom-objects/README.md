@@ -9,3 +9,5 @@ Core packaged objects visible in source include:
 - `Event_Favourite__c`
 - `Event_Views__c`
 - `Event_Management_Settings__c`
+
+Together these objects cover event setup, ticket inventory, speaker or role information, attendee registrations, personal favourites, and engagement tracking. `Event__c` is the hub object, with the other records providing operational detail or attendee behaviour around it.
