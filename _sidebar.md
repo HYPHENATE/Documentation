@@ -176,8 +176,9 @@
     - [Share Your Ideas](/dynamic-checks/support/share-your-ideas)
   - Permissions
     - [Permissions Overview](/dynamic-checks/permissions/permissions-overview)
+    - [Dynamic Checks Administrators](/dynamic-checks/permissions/dynamic-checks-administrators)
+    - [Dynamic Checks](/dynamic-checks/permissions/dynamic-checks)
   - Data Model
-    - [Overview](/dynamic-checks/custom-objects/README)
     - [Check Template Header](/dynamic-checks/custom-objects/check-template-header)
     - [Check Template](/dynamic-checks/custom-objects/check-template)
     - [Check Filter](/dynamic-checks/custom-objects/check-filter)
@@ -201,3 +202,38 @@
     - [TestingFlow](/dynamic-checks/flows/testing-flow)
   - Release Notes
     - [Overview](/dynamic-checks/release-notes/README)
+- Help Messages
+  - Overview
+    - [Introduction](/help-messages/README)
+    - [Key Benefits](/help-messages/key-benefits)
+    - [User Guide](/help-messages/user-guide)
+  - Architecture
+    - [How Help Messages Works](/help-messages/architecture/how-it-works)
+    - [Competitor Analysis](/help-messages/architecture/competitor-analysis)
+  - Best Practices
+    - [Implementation Guidelines](/help-messages/best-practices/implementation-guidelines)
+    - [Examples](/help-messages/best-practices/examples)
+  - Installation & Configuration
+    - [Installation](/help-messages/installation-configuration/installation)
+    - [Configuration](/help-messages/installation-configuration/configuration)
+  - Support
+    - [Report a Problem](/help-messages/support/report-a-problem)
+    - [Share Your Ideas](/help-messages/support/share-your-ideas)
+  - Permissions
+    - [Permissions Overview](/help-messages/permissions/permissions-overview)
+    - [Help Message Editor](/help-messages/permissions/help-message-editor)
+    - [Help Message Viewer](/help-messages/permissions/help-message-viewer)
+  - Data Model
+    - [Overview](/help-messages/custom-objects/README)
+    - [Help Message](/help-messages/custom-objects/help-message)
+    - [Help Message Filter](/help-messages/custom-objects/help-message-filter)
+  - Apex Classes
+    - [Overview](/help-messages/classes/README)
+    - [HelpMessageController](/help-messages/classes/help-message-controller)
+    - [HelpMessageHelper](/help-messages/classes/help-message-helper)
+    - [HelpMessageConstants](/help-messages/classes/help-message-constants)
+  - Components
+    - [Overview](/help-messages/components/README)
+    - [Help Message](/help-messages/components/help-message)
+  - Release Notes
+    - [Overview](/help-messages/release-notes/README)
