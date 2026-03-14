@@ -237,3 +237,29 @@
     - [Help Message](/help-messages/components/help-message)
   - Release Notes
     - [Overview](/help-messages/release-notes/README)
+- Generic CSV Exports
+  - Overview
+    - [Introduction](/generic-csv-exports/README)
+    - [Key Benefits](/generic-csv-exports/key-benefits)
+    - [User Guide](/generic-csv-exports/user-guide)
+  - Architecture
+    - [How Generic CSV Exports Works](/generic-csv-exports/architecture/how-it-works)
+    - [Competitor Analysis](/generic-csv-exports/architecture/competitor-analysis)
+  - Installation & Configuration
+    - [Installation](/generic-csv-exports/installation-configuration/installation)
+    - [Configuration](/generic-csv-exports/installation-configuration/configuration)
+  - Support
+    - [Report a Problem](/generic-csv-exports/support/report-a-problem)
+    - [Share Your Ideas](/generic-csv-exports/support/share-your-ideas)
+  - Permissions
+    - [Permissions Overview](/generic-csv-exports/permissions/permissions-overview)
+  - Data Model
+    - [Overview](/generic-csv-exports/custom-objects/README)
+  - Apex Classes
+    - [Overview](/generic-csv-exports/classes/README)
+  - Components
+    - [Overview](/generic-csv-exports/components/README)
+  - Flows
+    - [Overview](/generic-csv-exports/flows/README)
+  - Release Notes
+    - [Overview](/generic-csv-exports/release-notes/README)
