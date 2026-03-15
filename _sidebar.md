@@ -192,12 +192,22 @@
     - [Share Your Ideas](/extended-field-history/support/share-your-ideas)
   - Permissions
     - [Permissions Overview](/extended-field-history/permissions/permissions-overview)
+    - [Extended Field Audit IT](/extended-field-history/permissions/extended-field-audit-it)
   - Data Model
     - [Overview](/extended-field-history/custom-objects/README)
+    - [Field Audit History](/extended-field-history/custom-objects/field-audit-history)
+    - [Extended Field Audit History](/extended-field-history/custom-objects/extended-field-audit-history)
+    - [Extended Field History Control](/extended-field-history/custom-objects/extended-field-history-control)
   - Apex Classes
     - [Overview](/extended-field-history/classes/README)
+    - [Extended Field HistoryHandler](/extended-field-history/classes/extended-field-history-handler)
+    - [Extended Field HistoryHelper](/extended-field-history/classes/extended-field-history-helper)
+    - [Extended Field HistoryController](/extended-field-history/classes/extended-field-history-controller)
+    - [Extended Field HistoryRecordView](/extended-field-history/classes/extended-field-history-record-view)
+    - [Extended Field HistoryBatchDelete](/extended-field-history/classes/extended-field-history-batch-delete)
   - Components
     - [Overview](/extended-field-history/components/README)
+    - [Extended Field History](/extended-field-history/components/extended-field-history)
   - Release Notes
     - [Overview](/extended-field-history/release-notes/README)
 - Generic CSV Exports
