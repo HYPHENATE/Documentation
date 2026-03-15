@@ -1,12 +1,31 @@
 # Older Releases
 
-## v1.5.4 (March 2025)  
+## v1.5.9 (November 2025)
+### New 
+- Custom Flow Component to Support with replacement of Multiselect picklist lists with Tags. 
+- See Configuration [Flow Picklist](/simple-tags/components/tag-multi-select-picklist-component) for configuration details
 
+## v1.5.7 (August 2025)
+### Update
+- SLDS2 Spaces fix  
+- Pills and numerous other elements within SLDS2 cut off the letters gjpqy due to a line height setting being forced to 1rem.
+- Overriding the native SLDS2 variable to set this as 1.5rem  
+- Additional spacing implementing to help improve the readability within the pills as well  
+
+## v1.5.6 (August 2025)
+### Update 
+- SLDS2 Modal fix where min/max height set to 60rem, amended to min 30 / max 60  
+- Bump API throughout release to 64  
+
+## v1.5.5 (March 2025)
+### Update
+- SLDS2 Support  
+
+## v1.5.4 (March 2025)  
 ### Update 
 - API Version update to 62  
-  
-## v1.5.3 (February 2025)  
 
+## v1.5.3 (February 2025)  
 ### Bug  
 - fix where multiple tags across many categories with the same name are blocking the removal of a tag link  
 
